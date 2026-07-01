@@ -5,7 +5,7 @@ import java.sql.SQLException;
 public class DB {
     private static final String DB_URL  = "jdbc:mysql://localhost:3306/PDS_DB?serverTimezone=UTC&useSSL=false&allowPublicKeyRetrieval=true";
     private static final String DB_USER = "root";
-    private static final String DB_PASS = "AP_project";
+    private static final String DB_PASS = "*****";
     
     private static Connection conn;
 
